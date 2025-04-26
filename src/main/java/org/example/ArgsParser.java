@@ -70,8 +70,6 @@ public class ArgsParser {
             throw new IllegalArgumentException("Missing required arguments.");
         }
     }
-
-    // Геттеры для значений
     public String getDataPath() {
         return dataPath;
     }
