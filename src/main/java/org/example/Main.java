@@ -34,8 +34,6 @@ public class Main {
             }
         }
 
-        prefixSize = Math.min(prefixSize, 7);
-
         CsvSearcher searcher = new CsvSearcher(dataFilePath, columnIndex, 0, prefixSize);
 
         List<SearchResult> results = new ArrayList<>();
