@@ -1,4 +1,0 @@
-include:
-  - project: 'common/ci'
-    file: 'common.gitlab-ci.yml'
-    ref: 'v1.0.0'
