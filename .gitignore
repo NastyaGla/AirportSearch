@@ -11,6 +11,7 @@ target/
 .idea/misc.xml
 .idea/uiDesigner.xml
 .idea/workspace.xml
+.idea/.gitignore
 *.iws
 *.iml
 *.ipr
@@ -39,7 +40,5 @@ build/
 
 ### Mac OS ###
 .DS_Store
-
-data/
 
 test/
